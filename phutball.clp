@@ -1,5 +1,3 @@
-; TODO
-;
 (defrule init
 (declare (salience 200))
 (initial-fact)
